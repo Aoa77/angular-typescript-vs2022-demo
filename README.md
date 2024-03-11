@@ -1,4 +1,4 @@
-# angular-17-demo
+# angular-typescript-vs2022-demo
 A demo project built with Visual Studio's stand-alone Angular with Typescript template.
 
 ###### VIDEO - Launch the application in Debug Mode from VS 2022
